@@ -36,9 +36,9 @@ export const details = [
 					providing the infrastructure and security needed to build them.
 				</p>
 				<p>
-					Tesseract is a decentralised web3 scaling solutions enable
-					developers to build scalable user-friendly Web3 with low transaction
-					fees without ever sacrificing on security.
+					Tesseract provides a suite of scaling solutions that enable
+					developers to build scalable, user-friendly Web3 games with low transaction
+					fees without sacrificing on security.
 				</p>
 			</>
 		),
