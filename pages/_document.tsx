@@ -25,7 +25,7 @@ class MyDocument extends Document {
 								property='og:title'
 							/>
 							<meta
-								content='Tesseract | Decentralized Infrastructure for Digital Experiences'
+								content='Tesseract Protocol is a player-owned, permissionless infrastructure that anyone can use to build web3 games'
 								property='og:description'
 							/>
 							{/* <meta
